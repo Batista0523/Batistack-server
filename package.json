@@ -1,0 +1,23 @@
+{
+  "name": "batistack-back-end",
+  "version": "1.0.0",
+  "description": "server and data base for company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Batista0523/Batistack-server.git"
+  },
+  "author": "Elisaul Batista",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "pg-promise": "^11.5.4"
+  }
+}
+
